@@ -14,7 +14,7 @@ export default {
     nav: [
       { text: '文档', link: '/' , activeMatch: '/index'},
       { text: '案例', link: '/case' },
-      { text: '团队', link: '/team' },
+     
       { text: '演示', link: '/demo' },
       { text: '首页', link: '/home' }
     ],
