@@ -1,6 +1,7 @@
 
 
 export default {
+  base: '/vitepressblog/',
   title: 'aiyy.site',
   description: '网站建设、网站设计、小程序开发、H5、二次开发',
   markdown: {
