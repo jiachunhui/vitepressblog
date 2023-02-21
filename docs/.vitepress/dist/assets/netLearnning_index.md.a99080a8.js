@@ -1,1 +1,0 @@
-import{_ as e,o as n,c as t}from"./app.bc8843ae.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"netLearnning/index.md"}'),a={name:"netLearnning/index.md"};function r(o,s,c,i,d,p){return n(),t("div")}const f=e(a,[["render",r]]);export{m as __pageData,f as default};
