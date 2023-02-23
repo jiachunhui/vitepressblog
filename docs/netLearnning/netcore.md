@@ -1,5 +1,18 @@
 # .NET Core 6\7
 
+## 后台服务常用命令
+```
+sc.exe create AiyyDemoWorkerServices binPath= D:\学习资料整理\Aiyy\AiyyDemo\bin\publish\AiyyDemo.exe
+
+sc.exe query AiyyDemoWorkerServices
+
+sc.exe start AiyyDemoWorkerServices
+
+sc.exe stop AiyyDemoWorkerServices
+
+sc.exe delete AiyyDemoWorkerServices
+```
+
 ## 静态资源设置跨域
 ::: danger 问题描述
 前端使用 canvas 加载图片时，由于图片跨域问题，报如下错误。\

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as o}from"./app.dc7d75ba.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"favorites/learn.md"}'),r={name:"favorites/learn.md"},s=o("p",null,"资料整理中",-1),n=[s];function c(_,i,l,d,p,f){return t(),a("div",null,n)}const h=e(r,[["render",c]]);export{u as __pageData,h as default};

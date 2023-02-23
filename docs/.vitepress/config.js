@@ -27,7 +27,7 @@ export default {
       {
         text: '学习笔记',
         items: [
-          { text: '.net笔记', link: '/netLearnning/' ,items:[{text:'.net core',link:'/netLearnning/netcore'}]},
+          { text: '.net笔记', link: '/netLearnning/' ,items:[{text:'.net core',link:'/netLearnning/netcore'},{text:'微信开发',link:'/netLearnning/weixin'}]},
           { text: 'CSS 学习笔记', link: '/cssLearnning/',items:[{text:'less',link:'/cssLearnning/less'}] },
           { text: 'Html笔记', link: '/htmlLearnning/' },
           { text: 'Vue笔记', link: '/vueLearnning/',items:[{text:'Element',link:'/vueLearnning/element'}] },
@@ -57,8 +57,8 @@ export default {
       {
         text:'小技巧',
         items:[
-          {text:'Windows小技巧',link:''},
-          {text:'Windows小技巧',link:''}
+          {text:'Windows小技巧',link:'/windows'},
+         
         ]
       }
     ],
