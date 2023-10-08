@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as s}from"./app.dc7d75ba.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"windows.md"}'),a={name:"windows.md"},n=s("p",null,"文档整理中",-1),r=[n];function c(d,_,i,p,l,m){return t(),o("div",null,r)}const w=e(a,[["render",c]]);export{u as __pageData,w as default};
