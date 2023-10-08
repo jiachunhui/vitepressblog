@@ -34,9 +34,15 @@ export default {
           { text: 'TypeScript笔记', link: '/typescriptLearnning/' },
           { text: 'JavaScript笔记', link: '/javascriptLearnning/' },
           {text:'Git笔记',link:'/gitLearnning/'},
-          {text:'VS Code/Visual Studio',link:'/vsLearnning/'}
+          {text:'VS Code/Visual Studio',link:'/vsLearnning/'},
+         
         ]
       },
+      {
+        text: '托管/部署/发布',
+        items: [
+          { text: '在Centos7 部署', link: '/deploy-centos/' }
+      }，
       {
         text:'资源收录',
         items:[
