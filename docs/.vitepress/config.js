@@ -41,7 +41,7 @@ export default {
       {
         text: '托管/部署/发布',
         items: [
-          { text: '在Centos7 部署', link: '/deploy-centos/' }
+          { text: '在Centos7 部署', link: '/deploy/centos' }
         ]
       },
       {

@@ -59,7 +59,9 @@ console.log('Hello, VitePress!')
 ```
 :::
 
-
+``` html
+<img :src="$withBase('/foo.png')" alt="foo" />
+```
 
 ```js
 export default {
